@@ -1,12 +1,5 @@
 # ✋Welcome to my page!
 ## Talented developer who passionately embraces the world of computer science.
-## About Me
-As a Data Scientist, I have honed my skills in statistical analysis and machine learning, with a focus on using Python for data analysis and modeling. I am proficient in Python libraries including NumPy, Pandas, Scikit-learn, and PyTorch, which I leverage to implement both supervised and unsupervised learning models. I find immense satisfaction in using these tools to crunch numbers and transform raw data into actionable insights. I continuously keep myself updated on the latest advancements in AI and ML, in order to enhance my data models.
-
-In addition to my data science skills, I am also experienced in database development. I have hands-on experience with managing and optimizing databases using PostgreSQL and Neo4j. I am comfortable with data modeling, designing database structures, and writing efficient SQL queries. My knowledge extends to handling NoSQL databases, in which I have applied Neo4j for handling complex data and relationships in several projects.
-
-A common thread in my work is a strong commitment to efficiency and accuracy. I enjoy the process of uncovering patterns and insights from data and transforming them into strategic decisions. My dual skill-set in data science and database development allows me to understand and manage the entire lifecycle of data, from its raw state to decision-making insights.
-
 ---
 
 ## Skills
