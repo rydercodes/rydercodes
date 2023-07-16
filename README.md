@@ -18,8 +18,8 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
   - **R**: Experienced in R for statistical analysis, data manipulation, and visualization.
   - **C++**: Experienced in basic syntax, concepts, functions and classes.
 - :bar_chart: **Data Management and Analytics**
-  - Experienced in SQL and PostgreSQL
-  - Experienced in Neo4j and Cypher queries.
+  - Experienced in **SQL** and **PostgreSQL**
+  - Experienced in **Neo4j** and **Cypher** queries.
 - :cloud: **Cloud Environment**
   - Experience in utilizing Google Cloud Big Query for effectively handling and analyzing vast datasets.
 - :wrench: **Development Tools**
