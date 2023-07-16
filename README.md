@@ -71,7 +71,7 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 - [**The Automated Data Warehouse**](https://link-to-project.com)
   - Created an automated data warehouse using C++ language, which involved obtaining a specification of a report in terms of entities to be displayed and producing the SQL query for obtaining the data for the report.
 
-- [**Information Visualization Approaches for Green House Gas Emission**](https://link-to-project.com)
+- [**Information Visualization Approaches for Green House Gas Emission**](https://github.com/rydercodes/-Information-Visualization-Approaches-for-Green-House-Gas-Emission.git)
   - Designed and developed a platform using InVision Studio to show the amount of greenhouse gas emissions in different countries over the past 50 years. This platform was designed for both experts and normal users and made available on the web, phone, and ambient interfaces. This project involved analyzing a dataset of greenhouse gas emissions across multiple countries and developing effective information visualization techniques to convey the data.
 
 
