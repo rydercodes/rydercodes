@@ -89,7 +89,7 @@
 
 ## **PDF RESUME**
 <p align="center">
-  <img width="200" src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png">
+  <img width="200" src="">
 </p>
 
 ---
