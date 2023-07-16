@@ -88,7 +88,9 @@
 ---
 
 ## **PDF RESUME**
-<img src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png" style="display: flex;justify-content: center;align-items: center;" width="200" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png" width="200" />
+</div>
 
 ---
 Last updated: July 2023
