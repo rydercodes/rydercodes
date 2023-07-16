@@ -1,4 +1,4 @@
-# ✋Welcome to my page!
+# ✋HELLO, I'm Jaber!
 ## Talented developer who passionately embraces the world of computer science.
 ---
 
