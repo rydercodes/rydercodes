@@ -88,6 +88,6 @@
 ---
 
 ## **RESUME**
-<img src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png" width="256"/>
+<img src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png" width="200"/>
 
 Last updated: July 2023
