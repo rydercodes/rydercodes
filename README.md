@@ -1,4 +1,4 @@
-# HELLO, I'm Jaber Rahimifard, ✋
+# ✋HELLO, I'm Jaber Rahimifard, 
 ## Computer Science Student at Ca' Foscari University of Venice.
 <h1 align="center">
   <img src="https://github.com/rydercodes/rydercodes/blob/main/name.gif" alt="Ryder Code" />
