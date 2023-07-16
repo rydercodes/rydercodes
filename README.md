@@ -1,9 +1,8 @@
 <h1 align="center">
   <img src="https://github.com/rydercodes/rydercodes/blob/main/name.gif" alt="Ryder Code" />
 </h1>
-# Data Scientist | Database Developer
 
-
+## Data Scientist | Database Developer
 ## About Me
 As a Data Scientist, I have honed my skills in statistical analysis and machine learning, with a focus on using Python for data analysis and modeling. I am proficient in Python libraries including NumPy, Pandas, Scikit-learn, and PyTorch, which I leverage to implement both supervised and unsupervised learning models. I find immense satisfaction in using these tools to crunch numbers and transform raw data into actionable insights. I continuously keep myself updated on the latest advancements in AI and ML, in order to enhance my data models.
 
