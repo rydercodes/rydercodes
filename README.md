@@ -39,7 +39,7 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 ## :mortar_board: Education
 
 **Master's Degree | Computer Science | Ca' Foscari University of Venice**
-- Thesis: Conducted a comprehensive research project on temporal and spatio-temporal graph representation and management using the Apache AGE extension in PostgreSQL.
+- Thesis: Conducted a comprehensive research project on a model and query language for temporal graph databases, with representation and management using Neo4j.
 - Acquired advanced skills in database systems and data management, as well as proficiency in programming languages such as Python, R, PostgreSQL and SQL.
 
 **Bachelor's Degree | Computer Software Engineering | IAUM University**
