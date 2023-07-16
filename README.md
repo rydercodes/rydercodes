@@ -11,8 +11,11 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 
 ## Skills
 
-- :computer: **Programming Languages**
+-  :computer: Programming Languages
   - Python: Proficient in NumPy, Pandas, TensorFlow, OpenCV, Scikit-Learn for clustering, classification, data modeling, and data visualization.
+  - Java: Experienced in Java programming language, including application development.
+  - Maven: Experienced in using Maven as a build automation tool for Java projects.
+  - R: Experienced in R for statistical analysis, data manipulation, and visualization.
   - C++: Experienced in basic syntax, concepts, functions and classes.
 - :bar_chart: **Data Management and Analytics**
   - Experienced in SQL and PostgreSQL, with basic knowledge of NoSQL databases (MongoDB)
