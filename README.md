@@ -62,13 +62,13 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 
 ## :file_folder: Projects
 
-- [**People Counting in Video Dataset**](https://link-to-project.com)
+- [**People Counting in Video Dataset**](https://github.com/rydercodes/Counting-People.git)
   - Analyzed a dataset consisting of videos recorded at a bus entrance in China. Annotated the images in video frames and trained a model to count the number of people passing through a specified scene using TensorFlow Object Detection.
 
-- [**Semeion Handwritten Digit Dataset Classification**](https://link-to-project.com)
+- [**Semeion Handwritten Digit Dataset Classification**](https://github.com/rydercodes/Semeion-Handwritten-Digit-Dataset-Classification.git)
   - Performed classification of several handwritten digits in the Semeion Handwritten Digit dataset using Normalized Cut, Mean Shift, and Latent Class Analysis. Compared the performance of these three approaches to identify the most effective one.
 
-- [**The Automated Data Warehouse**](https://link-to-project.com)
+- [**The Automated Data Warehouse**](https://github.com/rydercodes/Automated-Data-Warehouse.git)
   - Created an automated data warehouse using C++ language, which involved obtaining a specification of a report in terms of entities to be displayed and producing the SQL query for obtaining the data for the report.
 
 - [**Information Visualization Approaches for Green House Gas Emission**](https://github.com/rydercodes/-Information-Visualization-Approaches-for-Green-House-Gas-Emission.git)
