@@ -24,6 +24,7 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
   - Experience in utilizing Google Cloud Big Query for effectively handling and analyzing vast datasets.
 - :wrench: **Development Tools**
   - Experienced in Visual Studio Code, Intellij, Eclipse, Google Colab, and pgAdmin for efficient and effective development.
+  - **ANTLR4**: Experienced in using ANTLR4, a powerful parser generator, for language recognition, parsing, and translation tasks.
 - :chart_with_upwards_trend: **Data Visualization**
   - Experienced in Tableau for data visualization and Apache AGE Viewer for graphs visualization and exploration of data for Apache AGE extension.
 - :gear: **Operating Systems**
