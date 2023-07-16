@@ -30,7 +30,7 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 - :link: Version Control and Collaboration
   - Git: Experienced in utilizing Git for version control.
 - :clipboard: Productivity Tools
-  - MS Office (Excel, Word, PowerPoint): Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design
+  - MS Office (Excel, Word, PowerPoint): Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design.
 ---
 
 ## :mortar_board: Education
