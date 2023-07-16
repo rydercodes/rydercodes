@@ -5,7 +5,7 @@
 ## Skills
 
 - :computer: **Programming Languages**
-  - **Python**: Proficient in NumPy, Pandas, TensorFlow, OpenCV, Scikit-Learn for clustering, classification, data modeling, and data visualization.
+  - **Python**: Experienced in NumPy, Pandas, TensorFlow, OpenCV, Scikit-Learn for clustering, classification, data modeling, and data visualization.
   - **Java**: Experienced in Java programming language, including application development.
   - **Maven**: Experienced in using Maven as a build automation tool for Java projects.
   - **R**: Experienced in R for statistical analysis, data manipulation, and visualization.
