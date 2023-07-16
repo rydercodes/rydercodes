@@ -80,7 +80,7 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 ## :scroll: Certifications
 
 - [**Google Data Analytics Professional Certificate**](https://coursera.org/verify/professional-cert/XK6WGWBXX7ZR)
-- [**R Programming: R for Data Science**]()
+- [**R Programming: R for Data Science**](http://ude.my/UC-68848489-46e3-48e2-9a47-d845673e131e)
 
 ---
 
