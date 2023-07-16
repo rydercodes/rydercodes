@@ -50,20 +50,6 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 
 ---
 
-## Experience
-
-**Senior Data Scientist | Company 123 | June 2021 - Present**
-
-- Implemented Machine Learning algorithms to optimize the company's sales performance.
-- Led a team of data scientists to develop data-driven solutions.
-
-**Junior Data Scientist | Company XYZ | May 2017 - May 2021**
-
-- Worked on numerous data science projects which significantly improved company operations.
-- Managed data processing and data cleaning tasks.
-
----
-
 ## :file_folder: Projects
 
 - [**People Counting in Video Dataset**](https://github.com/rydercodes/Counting-People.git)
