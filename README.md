@@ -1,7 +1,5 @@
 # ✋Welcome to my page!
-![Iran Flag](https://raw.githubusercontent.com/jaber-rahimifard/flags/main/iran.png) ![Italy Flag](https://raw.githubusercontent.com/jaber-rahimifard/flags/main/italy.png)
-
-## Talented developer from 🇮🇷 Gorgan, Iran, currently living in 🇮🇹 Milan, Italy, who passionately embraces the world of computer science.
+## Talented developer from <img src="https://github.com/rydercodes/rydercodes/blob/main/Flags/Iran.avif" width="13"/> Gorgan, Iran, currently living in <img src="https://github.com/rydercodes/rydercodes/blob/main/Flags/Italy.jpg" width="13"/> Milan, Italy, who passionately embraces the world of computer science.
 ## About Me
 As a Data Scientist, I have honed my skills in statistical analysis and machine learning, with a focus on using Python for data analysis and modeling. I am proficient in Python libraries including NumPy, Pandas, Scikit-learn, and PyTorch, which I leverage to implement both supervised and unsupervised learning models. I find immense satisfaction in using these tools to crunch numbers and transform raw data into actionable insights. I continuously keep myself updated on the latest advancements in AI and ML, in order to enhance my data models.
 
