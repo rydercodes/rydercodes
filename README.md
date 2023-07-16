@@ -88,7 +88,5 @@
 ---
 
 ## **RESUME**
-<div style="text-align: center;">
   <img src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png" width="200" />
-</div>
 Last updated: July 2023
