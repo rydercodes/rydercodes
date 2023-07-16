@@ -75,4 +75,15 @@
 
 ---
 
+## Contact Info
+- 📞 **Phone:** +39 351-868-9996
+- 📧 **Email:** [jaber.rahimifard@outlook.com](mailto:jaber.rahimifard@outlook.com)
+- 🔗 **LinkedIn:** [jaber-rahimifard](https://www.linkedin.com/in/jaber-rahimifard/)
+- 🌐 **Website:** [JaRaCode.com](https://RyderCodes.com)
+- 📍 **Location:** Milan, Italy
+- 📆 **Date of Birth:** 15/05/1992
+- 🌍 **Nationality:** Iranian
+
+---
+
 Last updated: July 2023
