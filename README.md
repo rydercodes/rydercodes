@@ -13,10 +13,10 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 
 - :computer: **Programming Languages**
   - **Python**: Proficient in NumPy, Pandas, TensorFlow, OpenCV, Scikit-Learn for clustering, classification, data modeling, and data visualization.
-  - Java: Experienced in Java programming language, including application development.
-  - Maven: Experienced in using Maven as a build automation tool for Java projects.
-  - R: Experienced in R for statistical analysis, data manipulation, and visualization.
-  - C++: Experienced in basic syntax, concepts, functions and classes.
+  - **Java**: Experienced in Java programming language, including application development.
+  - **Maven**: Experienced in using Maven as a build automation tool for Java projects.
+  - **R**: Experienced in R for statistical analysis, data manipulation, and visualization.
+  - **C++**: Experienced in basic syntax, concepts, functions and classes.
 - :bar_chart: **Data Management and Analytics**
   - Experienced in SQL and PostgreSQL
   - Experienced in Neo4j and Cypher queries.
@@ -29,21 +29,21 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
 - :gear: **Operating Systems**
   - Proficient in both Windows and Linux (Ubuntu) environments.
 - :whale: **Development and DevOps**
-  - Docker: Experienced in using Docker for containerization.
+  - **Docker**: Experienced in using Docker for containerization.
 - :link: **Version Control and Collaboration**
-  - Git: Experienced in utilizing Git for version control.
+  - **Git**: Experienced in utilizing Git for version control.
 - :clipboard: **Productivity Tools**
-  - MS Office (Excel, Word, PowerPoint): Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design.
+  - **MS Office (Excel, Word, PowerPoint)**: Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design.
 ---
 
 ## :mortar_board: Education
 
 **Master's Degree | Computer Science | Ca' Foscari University of Venice**
-- Thesis: Conducted a comprehensive research project on a model and query language for temporal graph databases, with representation and management using Neo4j.
+- **Thesis**: Conducted a comprehensive research project on a model and query language for temporal graph databases, with representation and management using Neo4j.
 - Acquired advanced skills in database systems and data management, as well as proficiency in programming languages such as Python, R, PostgreSQL and SQL.
 
 **Bachelor's Degree | Computer Software Engineering | IAUM University**
-- Thesis: Developed and Managed an E-commerce Platform using PHP, SQL, and JavaScript.
+- **Thesis**: Developed and Managed an E-commerce Platform using PHP, SQL, and JavaScript.
 - During my bachelor’s degree in Computer Software Engineering at IAUM University, I designed and implemented a comprehensive online store project for my thesis. I utilized my skills in PHP, SQL, and JavaScript to create and manage an e-commerce platform, enabling users to browse and purchase products online. Through this project, I gained valuable experience in web development, database management, and programming.
 
 
