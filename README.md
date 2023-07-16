@@ -25,13 +25,12 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
   - Experienced in Tableau for data visualization and Apache AGE Viewer for graphs visualization and exploration of data for Apache AGE extension.
 - :gear: **Operating Systems**
   - Proficient in both Windows and Linux (Ubuntu) environments.
-- :memo: **Development and DevOps**
+- :whale: Development and DevOps
   - Docker: Experienced in using Docker for containerization.
-- :memo: **Version Control and Collaboration**
+- :link: Version Control and Collaboration
   - Git: Experienced in utilizing Git for version control.
-- :memo: **Productivity Tools**
-  - MS Office (Excel, Word, PowerPoint): Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design.
-
+- :clipboard: Productivity Tools
+  - MS Office (Excel, Word, PowerPoint): Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design
 ---
 
 ## :mortar_board: Education
