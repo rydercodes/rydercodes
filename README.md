@@ -21,14 +21,14 @@ A common thread in my work is a strong commitment to efficiency and accuracy. I 
   - Experienced in **SQL** and **PostgreSQL**
   - Experienced in **Neo4j** and **Cypher** queries.
 - :cloud: **Cloud Environment**
-  - Experience in utilizing Google Cloud Big Query for effectively handling and analyzing vast datasets.
+  - Experience in utilizing **Google Cloud Big Query** for effectively handling and analyzing vast datasets.
 - :wrench: **Development Tools**
-  - Experienced in Visual Studio Code, Intellij, Eclipse, Google Colab, and pgAdmin for efficient and effective development.
+  - Experienced in **Visual Studio Code**, **Intellij**, **Eclipse**, **Google Colab**, and **pgAdmin** for efficient and effective development.
   - **ANTLR4**: Experienced in using ANTLR4, a powerful parser generator, for language recognition, parsing, and translation tasks.
 - :chart_with_upwards_trend: **Data Visualization**
-  - Experienced in Tableau for data visualization and Apache AGE Viewer for graphs visualization and exploration of data for Apache AGE extension.
+  - Experienced in **Tableau** for data visualization and Apache AGE Viewer for graphs visualization and exploration of data for Apache AGE extension.
 - :gear: **Operating Systems**
-  - Proficient in both Windows and Linux (Ubuntu) environments.
+  - Proficient in both **Windows** and **Linux** (Ubuntu) environments.
 - :whale: **Development and DevOps**
   - **Docker**: Experienced in using Docker for containerization.
 - :link: **Version Control and Collaboration**
