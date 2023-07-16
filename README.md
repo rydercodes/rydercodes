@@ -88,10 +88,6 @@
 ---
 
 ## **PDF RESUME**
-<div style="text-align: center;">
-  <img src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png" width="200" style="vertical-align:middle;margin:100px 300px">
-</div>
-
-
+  <img src="https://github.com/rydercodes/rydercodes/blob/main/QRCode.png" width="200" style="vertical-align:middle;margin:0px 50px">
 ---
 Last updated: July 2023
