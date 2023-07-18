@@ -73,8 +73,6 @@
 - Persian – Native
 - Italian – Basic
 
----
-
 ## Contact Info
 - 📞 **Phone:** +39 351-868-9996
 - 📧 **Email:** [jaber.rahimifard@outlook.com](mailto:jaber.rahimifard@outlook.com)
