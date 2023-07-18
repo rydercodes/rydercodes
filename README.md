@@ -82,7 +82,7 @@
 - 📆 **Date of Birth:** 15/05/1992
 - 🌍 **Nationality:** Iranian
 ---
-<a href="https://www.buymeacoffee.com/Jaberbk"><img src="https://github.com/rydercodes/rydercodes/blob/main/v7CmKSX9.png" width="85"/></a>
+<a href="https://www.buymeacoffee.com/Jaberbk"><img src="https://github.com/rydercodes/rydercodes/blob/main/v7CmKSX9.png" width="200"/></a>
 
 ---
 Last updated: July 2023
