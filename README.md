@@ -93,4 +93,7 @@
 </p>
 
 ---
+- 🔗 **Buy Me a Coffee:** [Jaber's Buy Me a Coffee](https://bmc.link/Jaberbk)
+
+---
 Last updated: July 2023
