@@ -1,7 +1,7 @@
 # ✋HELLO, I'm Jaber!
 ## Talented database developer who passionately embraces the world of computer science.
 ---
-<a href="https://drive.google.com/file/d/1HPcBIje6uYeJEuNmBhTNIzAlZvp0Rwuk/view?usp=sharing"><img src="https://github.com/rydercodes/rydercodes/blob/main/resume.png"/></a>
+<a href="https://drive.google.com/file/d/1HPcBIje6uYeJEuNmBhTNIzAlZvp0Rwuk/view?usp=sharing"><img src="https://github.com/rydercodes/rydercodes/blob/main/resume.png" width="60"/></a>
 
 ## Skills
 - :bar_chart: **Data Management and Analytics**
