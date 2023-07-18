@@ -1,18 +1,17 @@
 # ✋HELLO, I'm Jaber!
-## Talented developer who passionately embraces the world of computer science.
+## Talented database developer who passionately embraces the world of computer science.
 ---
 
 ## Skills
-
+- :bar_chart: **Data Management and Analytics**
+  - Experienced in **SQL** and **PostgreSQL**
+  - Experienced in **Neo4j** and **Cypher** queries.
 - :computer: **Programming Languages**
   - **Python**: Experienced in NumPy, Pandas, TensorFlow, OpenCV, Scikit-Learn for clustering, classification, data modeling, and data visualization.
   - **Java**: Experienced in Java programming language, including application development.
   - **Maven**: Experienced in using Maven as a build automation tool for Java projects.
   - **R**: Experienced in R for statistical analysis, data manipulation, and visualization.
   - **C++**: Experienced in basic syntax, concepts, functions and classes.
-- :bar_chart: **Data Management and Analytics**
-  - Experienced in **SQL** and **PostgreSQL**
-  - Experienced in **Neo4j** and **Cypher** queries.
 - :cloud: **Cloud Environment**
   - Experience in utilizing **Google Cloud Big Query** for effectively handling and analyzing vast datasets.
 - :wrench: **Development Tools**
@@ -38,8 +37,6 @@
 
 **Bachelor's Degree | Computer Software Engineering | IAUM University**
 - **Thesis**: Developed and Managed an E-commerce Platform using PHP, SQL, and JavaScript.
-- During my bachelor’s degree in Computer Software Engineering at IAUM University, I designed and implemented a comprehensive online store project for my thesis. I utilized my skills in PHP, SQL, and JavaScript to create and manage an e-commerce platform, enabling users to browse and purchase products online. Through this project, I gained valuable experience in web development, database management, and programming.
-
 
 ---
 
