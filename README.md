@@ -82,10 +82,6 @@
 - 📍 **Location:** Milan, Italy
 - 📆 **Date of Birth:** 15/05/1992
 - 🌍 **Nationality:** Iranian
-<p style="display: flex; align-items: center;">
-  <img style="width: 22px; margin-right: 5px;" src="https://github.com/rydercodes/rydercodes/blob/main/bmc-logo.png" alt="Buy Me A Coffee">
-  Buy Me A Coffee: <a href="https://bmc.link/Jaberbk">Here</a>
-</p>
 
 ---
 Last updated: July 2023
