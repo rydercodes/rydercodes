@@ -30,7 +30,6 @@
   - **Git**: Experienced in utilizing Git for version control.
 - :clipboard: **Productivity Tools**
   - **MS Office (Excel, Word, PowerPoint)**: Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design.
----
 
 ## :mortar_board: Education
 
@@ -40,8 +39,6 @@
 
 **Bachelor's Degree | Computer Software Engineering | IAUM University**
 - **Thesis**: Developed and Managed an E-commerce Platform using PHP, SQL, and JavaScript.
-
----
 
 ## :file_folder: Projects
 
