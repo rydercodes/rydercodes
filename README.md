@@ -2,7 +2,7 @@
 ## Talented database developer who passionately embraces the world of computer science.
 ---
 <p>
-<a href="https://drive.google.com/file/d/1HPcBIje6uYeJEuNmBhTNIzAlZvp0Rwuk/view?usp=sharing"><img src="https://github.com/rydercodes/rydercodes/blob/main/resume.png" width="230"/></a>
+<a href="https://drive.google.com/file/d/1HPcBIje6uYeJEuNmBhTNIzAlZvp0Rwuk/view?usp=sharing"><img src="https://github.com/rydercodes/rydercodes/blob/main/resume.png" width="220"/></a>
 <a href="https://www.buymeacoffee.com/Jaberbk"><img src="https://github.com/rydercodes/rydercodes/blob/main/LP2wQCJL.png" width="200"/></a>
 </p>
 
