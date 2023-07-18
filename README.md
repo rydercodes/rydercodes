@@ -57,15 +57,10 @@
 - [**Information Visualization Approaches for Green House Gas Emission**](https://github.com/rydercodes/-Information-Visualization-Approaches-for-Green-House-Gas-Emission.git)
   - Designed and developed a platform using InVision Studio to show the amount of greenhouse gas emissions in different countries over the past 50 years. This platform was designed for both experts and normal users and made available on the web, phone, and ambient interfaces. This project involved analyzing a dataset of greenhouse gas emissions across multiple countries and developing effective information visualization techniques to convey the data.
 
-
----
-
 ## :scroll: Certifications
 
 - [**Google Data Analytics Professional Certificate**](https://coursera.org/verify/professional-cert/XK6WGWBXX7ZR)
 - [**R Programming: R for Data Science**](http://ude.my/UC-68848489-46e3-48e2-9a47-d845673e131e)
-
----
 
 ## :globe_with_meridians: Languages
 
