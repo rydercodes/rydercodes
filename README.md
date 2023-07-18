@@ -1,7 +1,7 @@
 # ✋HELLO, I'm Jaber!
 ## Talented database developer who passionately embraces the world of computer science.
 ---
-[Download My Resume](https://drive.google.com/file/d/1HPcBIje6uYeJEuNmBhTNIzAlZvp0Rwuk/view?usp=sharing)
+**Resume**[Download](https://drive.google.com/file/d/1HPcBIje6uYeJEuNmBhTNIzAlZvp0Rwuk/view?usp=sharing)
 ## Skills
 - :bar_chart: **Data Management and Analytics**
   - Experienced in **SQL** and **PostgreSQL**
