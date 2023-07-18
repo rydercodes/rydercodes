@@ -78,19 +78,10 @@
 - 🔗 **LinkedIn:** [Jaber Rahimifard](https://www.linkedin.com/in/jaber-rahimifard/)
 - 🔗 **Discord**: [Jaber Rahimifard](https://discordapp.com/users/1055999182369984522)
 - 🌐 **Website:** [RyderCodes.com](https://RyderCodes.com)
+- <img src="https://github.com/rydercodes/rydercodes/blob/main/bmc-logo.png" width="18"/>[Buy Me a Coffee](https://bmc.link/Jaberbk)
 - 📍 **Location:** Milan, Italy
 - 📆 **Date of Birth:** 15/05/1992
 - 🌍 **Nationality:** Iranian
-
----
-
-## **PDF RESUME**
-<p align="center">
-  <img width="200" src="https://github.com/rydercodes/rydercodes/blob/main/QR.png">
-</p>
-
----
-- <img src="https://github.com/rydercodes/rydercodes/blob/main/bmc-logo.png" width="18"/>[Buy Me a Coffee](https://bmc.link/Jaberbk)
 
 ---
 Last updated: July 2023
