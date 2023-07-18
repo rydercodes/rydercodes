@@ -93,7 +93,7 @@
 </p>
 
 ---
-- <img src="https://github.com/rydercodes/rydercodes/blob/main/bmc-logo.png" width="20"/> **Buy Me a Coffee:** [Jaber's Buy Me a Coffee](https://bmc.link/Jaberbk)
+- <img src="https://github.com/rydercodes/rydercodes/blob/main/bmc-logo.png" width="15"/> **Buy Me a Coffee:** [Jaber's Buy Me a Coffee](https://bmc.link/Jaberbk)
 
 ---
 Last updated: July 2023
