@@ -66,7 +66,6 @@
 - Italian – Basic
 
 ## Contact Info
-- 📞 **Phone:** +39 351-868-9996
 - 📧 **Email:** [jaber.rahimifard@outlook.com](mailto:jaber.rahimifard@outlook.com)
 - 🔗 **LinkedIn:** [Jaber Rahimifard](https://www.linkedin.com/in/jaber-rahimifard/)
 - 🔗 **Discord**: [Jaber Rahimifard](https://discordapp.com/users/1055999182369984522)
