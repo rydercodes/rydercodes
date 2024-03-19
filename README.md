@@ -8,13 +8,20 @@
 ## :mortar_board: Education
 
 <div align="center">
-
-|                                          |                     |
-|:----------------------------------------:|:-------------------:|
-| **Master’s degree in Computer Science** _Ca’ Foscari University of Venice._  | _ Venice, Italy |
-| **Bachelor’s degree in Computer Software Engineering** _IAUM University._ |_ Mashhad, Iran |
-| **Associate’s degree in Computer Science** _Technical College._ | _ Gorgan, Iran |
-
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="text-align: left; padding: 5px;"><b>Master’s degree in Computer Science</b> <i>Ca’ Foscari University of Venice.</i></td>
+      <td style="text-align: right; padding: 5px;"><i>Venice, Italy</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px;"><b>Bachelor’s degree in Computer Software Engineering</b> <i>IAUM University.</i></td>
+      <td style="text-align: right; padding: 5px;"><i>Mashhad, Iran</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px;"><b>Associate’s degree in Computer Science</b> <i>Technical College.</i></td>
+      <td style="text-align: right; padding: 5px;"><i>Gorgan, Iran</i></td>
+    </tr>
+  </table>
 </div>
 
 
