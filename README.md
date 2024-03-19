@@ -10,11 +10,8 @@
 - Master’s degree in Computer Science. Ca’ Foscari University of Venice. Venice, Italy
 - Bachelor’s degree in Computer Software Engineering. IAUM University. Mashhad, Iran
 - Associate’s degree in Computer Science. Technical College. Gorgan, Iran
-
-<div align="center">
-  
 ## Skills
-
+<div align="center">
 |     Category 1      |  Category 2   |      Category 3       |
 |:-------------------:|:-------------:|:---------------------:|
 |       Python        |      SQL      |       MongoDB         |
