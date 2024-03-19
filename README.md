@@ -45,12 +45,6 @@
 - [**Google Data Analytics Professional Certificate**](https://coursera.org/verify/professional-cert/XK6WGWBXX7ZR)
 - [**R Programming: R for Data Science**](http://ude.my/UC-68848489-46e3-48e2-9a47-d845673e131e)
 
-## :globe_with_meridians: Languages
-
-- English – Fluent
-- Persian – Native
-- Italian – Basic
-
 ## Contact Info
 - 📧 **Email:** [jaber.rahimifard@outlook.com](mailto:jaber.rahimifard@outlook.com)
 - 🔗 **LinkedIn:** [Jaber Rahimifard](https://www.linkedin.com/in/jaber-rahimifard/)
@@ -58,6 +52,5 @@
 - 🌐 **Website:** [RyderCodes.com](https://RyderCodes.com)
 - 📍 **Location:** Milan, Italy
 - 📆 **Date of Birth:** 15/05/1992
-- 🌍 **Nationality:** Iranian
 ---
-Last updated: July 2023
+Last updated: March 2024
