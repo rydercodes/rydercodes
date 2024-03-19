@@ -21,12 +21,10 @@
 
 ## :mortar_board: Education
 
-**Master's Degree | Computer Science | Ca' Foscari University of Venice**
-- **Thesis**: Conducted a comprehensive research project on a model and query language for temporal graph databases, with representation and management using Neo4j.
-- Acquired advanced skills in database systems and data management, as well as proficiency in programming languages such as Python, R, PostgreSQL and SQL.
+- Master’s degree in Computer Science. Ca’ Foscari University of Venice. Venice, Italy
+- Bachelor’s degree in Computer Software Engineering. IAUM University. Mashhad, Iran
+- Associate’s degree in Computer Science. Technical College. Gorgan, Iran
 
-**Bachelor's Degree | Computer Software Engineering | IAUM University**
-- **Thesis**: Developed and Managed an E-commerce Platform using PHP, SQL, and JavaScript.
 
 ## :file_folder: Projects
 
