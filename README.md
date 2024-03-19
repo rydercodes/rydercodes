@@ -8,6 +8,7 @@
 ## :mortar_board: Education
 
 <div align="center">
+  
 |                                          |                     |
 |:----------------------------------------:|:-------------------:|
 | **Master’s degree in Computer Science** _Ca’ Foscari University of Venice.  | _ Venice, Italy |
