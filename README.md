@@ -39,7 +39,7 @@
   - Implement functions in PostgreSQL by using plpython3u extension.
 ## :file_folder: Projects
 
-- [**Trained Model to Predict Math score of the students.**](https://github.com/rydercodes/TemporalGraph.git)
+- [**Trained Model to Predict Math score of the students.**](https://github.com/rydercodes/mlproject.git)
   - This repository contains code for a machine learning model that predicts the likelihood of a math score based on various metrics. The model is trained on a dataset containing information about students, including factors such as gender, writing score, reading score, etc.
     
 - [**A model and query language for temporal graph databases**](https://github.com/rydercodes/TemporalGraph.git)
