@@ -9,9 +9,9 @@
 
 |                                          |                     |
 |:----------------------------------------:|:-------------------:|
-| **Master’s degree in Computer Science**  | _Ca’ Foscari University of Venice._ Venice, Italy |
-| **Bachelor’s degree in Computer Software Engineering** | _IAUM University._ Mashhad, Iran |
-| **Associate’s degree in Computer Science** | _Technical College._ Gorgan, Iran |
+| **Master’s degree in Computer Science** _Ca’ Foscari University of Venice.  | _ Venice, Italy |
+| **Bachelor’s degree in Computer Software Engineering**  _IAUM University. |_ Mashhad, Iran |
+| **Associate’s degree in Computer Science** _Technical College. | _ Gorgan, Iran |
 
 
 ## Skills
