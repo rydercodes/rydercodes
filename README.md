@@ -5,6 +5,11 @@
 <a href="https://www.buymeacoffee.com/Jaberbk"><img src="https://github.com/rydercodes/rydercodes/blob/main/LP2wQCJL.png" width="200"/></a>
 </p>
 
+## :mortar_board: Education
+
+- Master’s degree in Computer Science. Ca’ Foscari University of Venice. Venice, Italy
+- Bachelor’s degree in Computer Software Engineering. IAUM University. Mashhad, Iran
+- Associate’s degree in Computer Science. Technical College. Gorgan, Iran
 ## Skills
 
 |     Category 1      |  Category 2   |      Category 3       |
@@ -17,14 +22,6 @@
 |        Docker       |   Kubernetes  |        Neo4j          |
 |       Cypher        |   Apache AGE  |     AWS SageMaker     |
 | Google Big Query    | Linux (Ubuntu)|MS Office (Excel, Word, PowerPoint)|
-
-
-## :mortar_board: Education
-
-- Master’s degree in Computer Science. Ca’ Foscari University of Venice. Venice, Italy
-- Bachelor’s degree in Computer Software Engineering. IAUM University. Mashhad, Iran
-- Associate’s degree in Computer Science. Technical College. Gorgan, Iran
-
 
 ## :file_folder: Projects
 
