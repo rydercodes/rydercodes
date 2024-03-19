@@ -12,6 +12,7 @@
 - Associate’s degree in Computer Science. Technical College. Gorgan, Iran
 ## Skills
 <div align="center">
+  
 |     Category 1      |  Category 2   |      Category 3       |
 |:-------------------:|:-------------:|:---------------------:|
 |       Python        |      SQL      |       MongoDB         |
