@@ -13,7 +13,7 @@
 ## Skills
 <div align="center">
 
-|         Skills        |         |         |         |
+|                 |         |         |         |
 |:---------------------:|:-------:|:-------:|:-------:|
 |  Python               |   SQL   | MongoDB |PostgreSQL|
 |  Pandas               |  NumPy  |TensorFlow|  Keras  |
