@@ -8,30 +8,22 @@
 ## :mortar_board: Education
 
 <div align="center">
-  <style>
-    table {
-      border-collapse: collapse;
-    }
-    td {
-      padding: 5px;
-      border: none;
-    }
-  </style>
-  <table>
+  <table style="border-collapse: collapse;">
     <tr>
-      <td style="text-align: left;"><b>Master’s degree in Computer Science</b> <i>Ca’ Foscari University of Venice.</i></td>
-      <td style="text-align: right;"><i>Venice, Italy</i></td>
+      <td style="text-align: left; padding: 5px;"><b>Master’s degree in Computer Science</b> <i>Ca’ Foscari University of Venice.</i></td>
+      <td style="text-align: right; padding: 5px;"><i>Venice, Italy</i></td>
     </tr>
     <tr>
-      <td style="text-align: left;"><b>Bachelor’s degree in Computer Software Engineering</b> <i>IAUM University.</i></td>
-      <td style="text-align: right;"><i>Mashhad, Iran</i></td>
+      <td style="text-align: left; padding: 5px;"><b>Bachelor’s degree in Computer Software Engineering</b> <i>IAUM University.</i></td>
+      <td style="text-align: right; padding: 5px;"><i>Mashhad, Iran</i></td>
     </tr>
     <tr>
-      <td style="text-align: left;"><b>Associate’s degree in Computer Science</b> <i>Technical College.</i></td>
-      <td style="text-align: right;"><i>Gorgan, Iran</i></td>
+      <td style="text-align: left; padding: 5px;"><b>Associate’s degree in Computer Science</b> <i>Technical College.</i></td>
+      <td style="text-align: right; padding: 5px;"><i>Gorgan, Iran</i></td>
     </tr>
   </table>
 </div>
+
 
 
 
