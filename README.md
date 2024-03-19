@@ -6,30 +6,17 @@
 </p>
 
 ## Skills
-	Python
-	SQL
-	MongoDB
-	PostgreSQL
-	Pandas
-	NumPy
-	TensorFlow
-	Keres
-	Scikit-Learn
-	PySpark
-	MLOps (MLflow)
-	PyCaret
-	Git
-	CI/CD Workflow
-	Flask
-	Docker
-	Kubernetes
-	Neo4j
-	Cypher
-	Apache AGE
-	AWS SageMaker
-	Google Big Query
-	Linux (Ubuntu)
-	MS Office (Excel, Word, PowerPoint) 
+
+| Category 1     | Category 2 | Category 3       |
+|----------------|------------|------------------|
+| Python         | SQL        | MongoDB          |
+| PostgreSQL     | Pandas     | NumPy            |
+| TensorFlow     | Keras      | Scikit-Learn     |
+| PySpark        | MLOps      | PyCaret          |
+| Git            | CI/CD      | Flask            |
+| Docker         | Kubernetes | Neo4j            |
+| Cypher         | Apache AGE | AWS SageMaker    |
+| Linux (Ubuntu) | MS Office  |
 
 
 ## :mortar_board: Education
