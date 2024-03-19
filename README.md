@@ -21,7 +21,7 @@
 |         Git         | CI/CD Workflow|         Flask         |
 |        Docker       |   Kubernetes  |        Neo4j          |
 |       Cypher        |   Apache AGE  |     AWS SageMaker     |
-| Google Big Query    | Linux (Ubuntu)|MS Office (Excel, Word, PowerPoint)|
+| Google Big Query    | Linux (Ubuntu)|MS Office|
 
 ## :file_folder: Projects
 
