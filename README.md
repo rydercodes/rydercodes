@@ -6,30 +6,31 @@
 </p>
 
 ## Skills
-- :bar_chart: **Data Management and Analytics**
-  - Experienced in **SQL** and **PostgreSQL**
-  - Experienced in **Neo4j** and **Cypher** queries.
-- :computer: **Programming Languages**
-  - **Python**: Experienced in NumPy, Pandas, TensorFlow, OpenCV, Scikit-Learn for clustering, classification, data modeling, and data visualization.
-  - **Java**: Experienced in Java programming language, including application development.
-  - **Maven**: Experienced in using Maven as a build automation tool for Java projects.
-  - **R**: Experienced in R for statistical analysis, data manipulation, and visualization.
-  - **C++**: Experienced in basic syntax, concepts, functions and classes.
-- :cloud: **Cloud Environment**
-  - Experience in utilizing **Google Cloud Big Query** for effectively handling and analyzing vast datasets.
-- :wrench: **Development Tools**
-  - Experienced in **Visual Studio Code**, **Intellij**, **Eclipse**, **Google Colab**, and **pgAdmin** for efficient and effective development.
-  - **ANTLR4**: Experienced in using ANTLR4, a powerful parser generator, for language recognition, parsing, and translation tasks.
-- :chart_with_upwards_trend: **Data Visualization**
-  - Experienced in **Tableau** for data visualization and Apache AGE Viewer for graphs visualization and exploration of data for Apache AGE extension.
-- :gear: **Operating Systems**
-  - Proficient in both **Windows** and **Linux** (Ubuntu) environments.
-- :whale: **Development and DevOps**
-  - **Docker**: Experienced in using Docker for containerization.
-- :link: **Version Control and Collaboration**
-  - **Git**: Experienced in utilizing Git for version control.
-- :clipboard: **Productivity Tools**
-  - **MS Office (Excel, Word, PowerPoint)**: Proficient in using MS Office suite for various tasks such as data analysis, document creation, and presentation design.
+	Python
+	SQL
+	MongoDB
+	PostgreSQL
+	Pandas
+	NumPy
+	TensorFlow
+	Keres
+	Scikit-Learn
+	PySpark
+	MLOps (MLflow)
+	PyCaret
+	Git
+	CI/CD Workflow
+	Flask
+	Docker
+	Kubernetes
+	Neo4j
+	Cypher
+	Apache AGE
+	AWS SageMaker
+	Google Big Query
+	Linux (Ubuntu)
+	MS Office (Excel, Word, PowerPoint) 
+
 
 ## :mortar_board: Education
 
