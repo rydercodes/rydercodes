@@ -23,6 +23,19 @@
 |       Cypher        |   Apache AGE  |     AWS SageMaker     |
 | Google Big Query    | Linux (Ubuntu)|MS Office|
 
+## WORK EXPERIENCE
+- Graph databases intern. Ca’ Foscari University of Venice | 10 Months. Venice, Italy
+  - Data cleaning.
+  - Create a custom graph by implementing nodes and edges with the real data from flight transportation.
+  - Implement algorithms to determine continuous, consecutive paths and optimizing for different paths.
+  - Optimize algorithms in Neo4j and AGE by defining user-defined functions in Neo4j and PostgreSQL.
+  - Implemented the functions in Java to change the structure of the cypher to get optimized solution.
+  - Deploy web application to run the custom queries.
+  - Identifying important nodes using centrality algorithms.
+  - Finding the shortest, fastest, longest, latest, and cheapest communication paths.
+  - Analyze effects of the price on length and distance of the flights between origin and destination airports.
+  - Run queries on massive datasets in PostgreSQL to derive insights and make data-driven decisions.
+  - Implement functions in PostgreSQL by using plpython3u extension.
 ## :file_folder: Projects
 
 - [**A model and query language for temporal graph databases**](https://github.com/rydercodes/TemporalGraph.git)
