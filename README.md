@@ -13,11 +13,14 @@
 ## Skills
 <div align="center">
 
-|:-------------------:|:-------------:|:---------------------:|:---------------:|:--------------:|:--------------:|
-|       Python        |      SQL      |       MongoDB         |   PostgreSQL    |     Pandas     |      NumPy     |
-|     TensorFlow      |     Keras     |    Scikit-Learn      |     PySpark     |     MLOps      |     PyCaret    |
-|         Git         | CI/CD Workflow|         Flask         |     Docker      |   Kubernetes   |     Neo4j      |
-|       Cypher        |   Apache AGE  |     AWS SageMaker     | Google Big Query| Linux (Ubuntu) |    MS Office   |
+|         |         |         |         |
+|:-------:|:-------:|:-------:|:-------:|
+|  Python |   SQL   | MongoDB |PostgreSQL|
+|  Pandas |  NumPy  |TensorFlow|  Keras  |
+|Scikit-Learn| PySpark|  MLOps  | PyCaret |
+|   Git   |CI/CD Workflow| Flask |  Docker |
+|Kubernetes|  Neo4j  |  Cypher |Apache AGE|
+|AWS SageMaker|Google Big Query|Linux (Ubuntu)|MS Office|
 
 </div>
 
