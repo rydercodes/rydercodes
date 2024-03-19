@@ -14,7 +14,7 @@
       <td style="text-align: right; padding: 5px;"><i>Venice, Italy</i></td>
     </tr>
     <tr>
-      <td style="text-align: left; padding: 5px;"><b>Bachelor’s degree in Computer Software Engineering</b> <i>IAUM University.</i></td>
+      <td style="text-align: left; padding: 5px;"><b>Bachelor’s degree in Computer Software Engineering</b> <i style="font-size:8pt">IAUM University.</i></td>
       <td style="text-align: right; padding: 5px;"><i>Mashhad, Iran</i></td>
     </tr>
     <tr>
