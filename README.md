@@ -24,6 +24,7 @@
 |       Cypher        |   Apache AGE  |     AWS SageMaker     |
 | Google Big Query    | Linux (Ubuntu)|MS Office|
 </div>
+
 ## WORK EXPERIENCE
 - Graph databases intern. Ca’ Foscari University of Venice | 10 Months. Venice, Italy
   - Data cleaning.
