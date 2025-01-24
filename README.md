@@ -1,5 +1,5 @@
 # Hi!, I'm Jaber.
-**Talented data scientist who passionately embraces the world of computer science.**
+**Talented data engineer who passionately embraces the world of computer science.**
 <p>
 <a href="https://drive.google.com/file/d/1_CG5clRKrZttiNBPs0jMXwdlqoDYnHQp/view?usp=sharing"><img src="https://github.com/rydercodes/rydercodes/blob/main/resume.png" width="204"/></a>
 <a href="https://www.buymeacoffee.com/Jaberbk"><img src="https://github.com/rydercodes/rydercodes/blob/main/LP2wQCJL.png" width="200"/></a>
